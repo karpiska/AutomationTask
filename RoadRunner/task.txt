@@ -5,7 +5,7 @@ Code was tested on Python 3.11
 
 1. Fix two small issues with the code so the game starts properly and doesn't crash
 
-2. Change the car shape to an ellipse
+2. Change the car shape to a rectangle.
 
 3. Add an option to pause/unpause the game by pressing the key "P"
 
