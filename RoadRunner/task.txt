@@ -1,0 +1,22 @@
+Hi,
+I see you decided to give it a try.
+in case of any ambiguousness, go with your gut and use imagination.
+Let's start easy.
+
+1. Change the car shape to an ellipse
+
+2. Add an option to pause/unpause the game by pressing the key "P"
+
+3. Currently, when turtle hits the wall, the next level starts immediately.
+Add a congratulation message and a 3-second displayed countdown before the next level starts.
+
+Now we will ramp it up a little
+
+4. Add logging to game.log file. It should include relevant player input and game status.
+Game.log contains all games played in the same day.
+
+5. Add player input of the player name. Once the player dies, a results.txt will be updated with the player results.
+If the player is already there, update the record only if he scored more. If there are other players, order the results
+by the amount of points they earned.
+
+Good luck!
